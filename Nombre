@@ -1,0 +1,9 @@
+public class Main {
+  static void diegoMetodo() {
+    System.out.println("Hello diego, buen dia");
+  }
+
+  public static void main(String[] args) {
+    diegoMetodo();
+  }
+}
